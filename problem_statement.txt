@@ -1,0 +1,8 @@
+Multi-Tier Supply Chain Fraud Detection and Management
+
+Problem Description:
+In multi-tier supply chain finance (Tier 1→Tier 2→Tier 3), a Tier 1 supplier fabricated 340 phantom invoices (~$47M). Each invoice looked legitimate individually, but cross-tier cascading triggered repeated financing, multiplying exposure. Traditional invoice checks failed because the fraud becomes visible only through network-level correlation. Other typologies include double financing, over-invoicing, carousel trades, and dilution fraud.
+
+Expected Outcome:
+Build a real-time SCF fraud detection system that: (1) Validates invoices against PO/GRN/delivery confirmations via ERP feeds; (2) Maps buyer–supplier network topology and flags relationship gaps; (3) Detects duplicates across lenders using invoice fingerprints; (4) Monitors cash collection to detect dilution; (5) Detects velocity/sequencing anomalies per tier; (6) Uses feasibility metrics (revenue vs invoice volume) to flag phantoms; (7) Uses graph analytics for carousel trades; (8) Correlates cross-tier cascades; (9) Provides pre-disbursement early warning.
+

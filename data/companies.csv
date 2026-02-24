@@ -1,0 +1,171 @@
+id,name,tier,industry,annual_revenue,country,city,registration_date,is_active
+1,Fisher Ltd,0,Electronics,98770972.68420053,India,Port Kennethview,2016-06-24,True
+2,"Lopez, Hunt and Powell",0,Textiles,485260939.39020437,China,East Johnberg,2020-07-19,True
+3,Sparks Group,0,Energy,219530723.6273615,France,Thomasmouth,2020-07-08,True
+4,Brown LLC,0,Manufacturing,108104577.90423718,Japan,Port Maryshire,2021-05-09,True
+5,Huffman-Garcia,0,Textiles,1035442811.8015567,USA,East Jorge,2023-10-23,True
+6,"Harrell, Bass and Campbell",0,Energy,437733418.8389646,Brazil,North Elizabeth,2018-11-07,True
+7,"Sullivan, Wagner and Humphrey",0,Pharmaceuticals,479859212.97935855,Canada,Robinville,2023-10-13,True
+8,Gibbs-Barnett,0,Chemicals,1628389390.521762,USA,Lake Maryhaven,2018-03-20,True
+9,Cunningham-Bell,0,Automotive,1411371820.2270424,UK,East Stephen,2017-07-25,True
+10,Whitney LLC,0,Chemicals,353185024.632974,UK,Wrighttown,2025-02-05,True
+11,"Gray, Rogers and Wilson",0,Electronics,230854394.59128842,China,Gregorymouth,2021-10-15,True
+12,Flores-Holmes,0,Food & Beverage,1702614014.3775465,Canada,East Ericside,2023-12-08,True
+13,Barron-Newman,0,Chemicals,1623900132.8850415,Italy,Jamiemouth,2019-04-06,True
+14,Beck-Roth,0,Energy,293411017.56375825,France,Kingstad,2020-04-29,True
+15,"Pierce, Reyes and Nguyen",0,Electronics,1126479230.9827926,Canada,Hayeschester,2020-08-24,True
+16,"Bowman, Davis and Campbell",1,Logistics,104221409.22576335,China,South Elizabethtown,2020-06-09,True
+17,Hernandez-Clark,1,Manufacturing,334019026.09817797,India,South Ellenmouth,2020-09-14,True
+18,"Butler, Smith and Brown",1,Electronics,429105683.297422,China,Williamsfort,2020-02-13,True
+19,Jones-Smith,1,Pharmaceuticals,146207065.52394512,UK,Melindafurt,2018-08-27,True
+20,Robinson-Lopez,1,Automotive,191388673.8872725,Japan,Millerfort,2021-01-06,True
+21,Murphy-Pacheco,1,Chemicals,353891953.59469014,China,Hicksville,2021-12-13,True
+22,Williams Group,1,Logistics,321139361.2165595,Brazil,Riggsville,2020-08-13,True
+23,"Mora, Martinez and Newman",1,Textiles,90067221.9433449,France,Chanstad,2020-10-07,True
+24,"Phillips, Lewis and Guerra",1,Chemicals,494866441.81193167,Brazil,Markmouth,2018-04-16,True
+25,Porter-Rodriguez,1,Textiles,345460982.9850386,USA,Robertstad,2023-07-06,True
+26,Valentine-Turner,1,Textiles,412683271.0633361,UK,Port Annchester,2024-01-26,True
+27,Benson-Hammond,1,Pharmaceuticals,141193029.22809434,Japan,Russellburgh,2019-11-16,True
+28,"Mosley, Molina and Davis",1,Logistics,439420136.97160774,UK,Richardfort,2018-08-22,True
+29,Jarvis-Johnson,1,Textiles,331164945.9944912,France,Thomasland,2018-06-01,True
+30,"Byrd, Contreras and Rice",1,Construction,80007079.31661071,Germany,Tapiafort,2020-12-27,True
+31,Cortez-Hanson,1,Textiles,375044601.22488725,Brazil,New Zacharyview,2019-04-17,True
+32,"Acosta, Huber and Gardner",1,Chemicals,376036767.70960635,France,Sarahfurt,2019-04-10,True
+33,Meyer Inc,1,Logistics,205706247.51879466,Japan,South Brandon,2019-02-02,True
+34,Douglas-Walker,1,Automotive,259667883.90146762,China,East Josephtown,2020-02-16,True
+35,Velasquez PLC,1,Manufacturing,431940425.73666626,Germany,New Raytown,2022-10-31,True
+36,Gross-Parks,1,Automotive,398118888.5378524,France,East Kendra,2023-09-05,True
+37,Green Group,1,Logistics,41128576.014459,France,Savageville,2022-01-10,True
+38,"Newman, Anderson and Weaver",1,Logistics,498099476.3176474,Brazil,Michaelhaven,2019-09-11,True
+39,Harrison-Valenzuela,1,Chemicals,485828405.0306729,USA,Lake Robertmouth,2018-04-16,True
+40,Collins Group,1,Electronics,344038080.82302165,Brazil,New Matthewfurt,2024-05-05,True
+41,"Hudson, Kelley and Dickson",2,Food & Beverage,12043665.185991768,France,Aliciaburgh,2025-02-08,True
+42,Gonzalez Group,2,Automotive,45918646.92659144,India,Erinport,2022-06-05,True
+43,"Pollard, Howard and Bowman",2,Energy,76434257.7061544,Brazil,Audreytown,2024-04-11,True
+44,Wright PLC,2,Electronics,87181338.41383992,India,Lake Sarahton,2022-03-02,True
+45,Archer Ltd,2,Energy,61288050.93237906,Germany,Hamiltonland,2024-03-15,True
+46,"Nash, Jones and Allen",2,Food & Beverage,76488569.20743997,Brazil,Rickyton,2024-08-25,True
+47,Brooks Group,2,Energy,91930855.94517453,Canada,Marcushaven,2020-11-11,True
+48,"Ferguson, Knight and Oliver",2,Food & Beverage,49371965.094865836,China,Monicachester,2023-05-27,True
+49,"Williams, Scott and Underwood",2,Food & Beverage,87993465.90449524,India,Shawview,2025-01-30,True
+50,Turner Inc,2,Textiles,6734591.482924568,Canada,Lake Billy,2023-11-07,True
+51,"Peterson, Rodriguez and Hall",2,Electronics,9479691.754719999,Italy,Lake Benjamin,2023-05-06,True
+52,Jones-Gonzalez,2,Electronics,97820464.87405609,Brazil,East Betty,2020-08-09,True
+53,Shaw-Thomas,2,Automotive,13710754.985476516,Italy,Kariview,2023-12-31,True
+54,Walker-Hamilton,2,Energy,17347568.93843864,Brazil,Deanmouth,2020-06-08,True
+55,Johnson Ltd,2,Logistics,42890656.07988781,Japan,Port Briantown,2021-07-17,True
+56,Mcdowell-Salazar,2,Energy,75771254.46694474,Japan,Butlerville,2021-01-23,True
+57,Farmer LLC,2,Chemicals,40500237.69974548,UK,North Miguel,2020-06-30,True
+58,"Tapia, Carson and Kennedy",2,Construction,90061794.3796516,Italy,West Dawnchester,2022-12-26,True
+59,Sanchez-Rodriguez,2,Electronics,25542655.752934787,China,Johnsonstad,2021-12-24,True
+60,Russell Group,2,Food & Beverage,3082391.7406988293,Brazil,North Susanport,2023-11-14,True
+61,Mullins-Smith,2,Textiles,59255571.32662475,USA,New Ryan,2020-09-22,True
+62,Baldwin-Barrett,2,Electronics,71076253.70829695,USA,Zimmermanland,2023-04-08,True
+63,Vasquez-Spencer,2,Textiles,7672632.482920442,USA,Lake Drew,2024-02-03,True
+64,"Middleton, Cox and Greer",2,Food & Beverage,8014877.63897669,Japan,New Valerie,2021-07-27,True
+65,Cross Inc,2,Chemicals,67228800.05133179,Japan,Smithfurt,2022-10-21,True
+66,Blake Ltd,2,Energy,14098873.023777474,Canada,Walterport,2020-04-07,True
+67,Barrera-Graham,2,Logistics,47794431.60486762,Italy,West Davidchester,2023-07-01,True
+68,Burgess-Gonzalez,2,Pharmaceuticals,19850581.521825895,China,Olsonfort,2022-11-14,True
+69,Bell-Doyle,2,Pharmaceuticals,36075459.09236582,France,Butlerton,2022-01-30,True
+70,Oconnor-Cabrera,2,Construction,86519838.08859073,USA,West Aliceport,2020-04-03,True
+71,"Gordon, Martinez and Thomas",2,Electronics,7000654.733624351,UK,Lake Ricardo,2021-08-15,True
+72,"Harmon, Williams and Garcia",2,Electronics,25616977.058108278,Japan,Jessicaberg,2022-12-16,True
+73,Stevens LLC,2,Energy,45412741.235480055,France,Brandonfurt,2024-06-21,True
+74,"Cook, Silva and James",2,Automotive,28575969.322027106,Japan,East Daniel,2020-07-23,True
+75,Blackwell Group,2,Electronics,44869943.76029224,Brazil,South Jason,2020-03-28,True
+76,Benson-Young,2,Electronics,6008244.622963242,Brazil,Mejiaside,2024-02-07,True
+77,"Sawyer, Nguyen and Reyes",2,Manufacturing,96930629.47119038,Japan,New Mark,2022-03-12,True
+78,Villarreal PLC,2,Automotive,41234991.737294726,Italy,New Kaitlynhaven,2020-06-09,True
+79,Grant-Beck,2,Textiles,86600389.00899133,USA,South Anthony,2024-04-15,True
+80,Smith-Jones,2,Automotive,38518338.778714694,France,New Josephville,2021-08-23,True
+81,Craig-Weber,2,Chemicals,92725289.28237401,Italy,Fordport,2023-07-05,True
+82,"Moss, Garcia and Stephens",2,Chemicals,42877741.11302613,Brazil,Lake David,2023-01-23,True
+83,Andrews Ltd,2,Construction,16324885.70213235,India,Andersonside,2024-11-29,True
+84,"Klein, Jones and Oliver",2,Textiles,96902227.13194673,Canada,Port Christianshire,2022-03-15,True
+85,"Ruiz, Ramsey and Collins",2,Energy,7034799.576175066,UK,Port Charles,2021-11-17,True
+86,"Pierce, Richardson and Campbell",2,Manufacturing,5964091.389131403,Italy,Calebbury,2023-11-05,True
+87,Jones-Jones,2,Energy,92019325.95237544,Brazil,Coleborough,2022-03-18,True
+88,"Phillips, Allen and Ruiz",2,Automotive,6631078.3931397665,Brazil,Crystalbury,2021-07-12,True
+89,Smith-Fisher,3,Automotive,1463574.5208054676,China,Tracyberg,2024-08-17,True
+90,Zuniga Group,3,Textiles,8135133.471233722,Canada,South Timothychester,2021-12-04,True
+91,Lopez Inc,3,Textiles,11620489.244393492,USA,Port Rebeccafort,2022-12-30,True
+92,"Hawkins, Smith and Fields",3,Logistics,1731469.769348022,Canada,Hendersonville,2024-06-07,True
+93,"Haynes, Gomez and Burke",3,Logistics,10503376.039085982,India,Amandachester,2021-03-05,True
+94,"Perez, Orozco and Romero",3,Textiles,13427546.8979196,UK,Kennedyton,2024-03-26,True
+95,Brown-Miller,3,Textiles,5385728.799373941,Germany,New Paul,2022-03-24,True
+96,"Clark, Gomez and English",3,Chemicals,9198768.994151995,China,East Timothy,2024-09-24,True
+97,Carter PLC,3,Manufacturing,9219881.900109865,Canada,Nortonport,2024-10-04,True
+98,Coffey Inc,3,Electronics,1557888.3498826968,Japan,Seanville,2023-11-08,True
+99,Wyatt-Figueroa,3,Energy,5377488.253532987,UK,Amyport,2024-02-03,True
+100,Maddox-Hart,3,Electronics,17597477.8254424,UK,Sheliafort,2021-07-06,True
+101,Ramos and Sons,3,Chemicals,3239161.9639089163,Brazil,West Saratown,2022-05-22,True
+102,Smith-Fernandez,3,Chemicals,12272387.537946407,Brazil,New Jacob,2023-01-12,True
+103,Christensen PLC,3,Manufacturing,13390477.753880413,Brazil,West Ronaldfort,2023-05-17,True
+104,Vargas and Sons,3,Chemicals,18641945.18477794,China,Romanfort,2023-11-21,True
+105,Butler-Clark,3,Automotive,5362871.83759384,China,Robinside,2021-05-05,True
+106,Brown and Sons,3,Energy,3193413.40452231,India,Lake Vincent,2022-09-06,True
+107,Anderson Ltd,3,Logistics,4291530.1306581665,UK,Taylorfurt,2022-01-03,True
+108,"Mitchell, Garcia and Mcfarland",3,Textiles,13781192.863146476,India,Manuelchester,2023-06-23,True
+109,"Bradley, Martinez and Johnson",3,Energy,9821783.857772594,USA,Jeffreyberg,2023-05-27,True
+110,"Gates, Douglas and Sanders",3,Electronics,12722260.501452964,India,Lake Joshua,2021-09-21,True
+111,Terrell-Cohen,3,Manufacturing,170559.21284686777,Germany,West Richardmouth,2024-07-20,True
+112,Joseph-Baldwin,3,Chemicals,3315481.3278503343,Italy,New Noah,2022-09-07,True
+113,Irwin LLC,3,Energy,14142782.190523814,Brazil,Alexanderton,2022-07-21,True
+114,"Castro, Villanueva and Hill",3,Manufacturing,2326290.2237277664,Germany,Patrickfort,2022-11-19,True
+115,Oliver Inc,3,Energy,816959.947410529,UK,Dianefurt,2024-12-10,True
+116,"Morse, Fisher and Watson",3,Logistics,11095249.425225452,France,East Andrew,2023-12-10,True
+117,"Harrell, Good and Weiss",3,Automotive,932394.2775602711,UK,Danielmouth,2021-09-04,True
+118,"Martinez, Mosley and Holland",3,Manufacturing,17988600.266876843,Japan,Port Jasminestad,2023-05-20,True
+119,"Gardner, Baker and Alexander",3,Textiles,13371974.871647306,UK,Zimmermanfort,2022-07-19,True
+120,"Williams, Smith and Barker",3,Energy,17694280.558875076,France,Reginaldhaven,2023-07-05,True
+121,Sims-Martinez,3,Logistics,15014604.461756432,Japan,Nortonshire,2021-12-07,True
+122,Edwards-Brown,3,Automotive,19526500.05532616,Germany,Odonnellchester,2022-09-30,True
+123,"Alvarez, Moreno and Harris",3,Pharmaceuticals,593248.6017739556,UK,Aguilarland,2024-04-07,True
+124,Lowe-Booth,3,Pharmaceuticals,16064479.264849065,Japan,Lake Melody,2024-05-18,True
+125,Wilkinson-White,3,Chemicals,3268037.075316552,China,South Michael,2021-12-22,True
+126,Glass-Dickerson,3,Pharmaceuticals,17456118.979831185,Italy,Huntshire,2024-02-07,True
+127,Sampson-Vance,3,Textiles,4071499.3175124624,Italy,Walkerview,2024-07-21,True
+128,Christensen PLC,3,Food & Beverage,6173298.260038151,Japan,Christophertown,2025-01-22,True
+129,Rodriguez PLC,3,Textiles,570922.2505588853,Japan,Port Jeremy,2022-10-16,True
+130,Lane-Hamilton,3,Pharmaceuticals,6632412.8288343595,China,South Johnnyfurt,2021-03-06,True
+131,Valdez Group,3,Chemicals,7087807.968746769,Brazil,East Erinborough,2023-04-01,True
+132,"Brown, Burton and Huerta",3,Pharmaceuticals,13622410.555369247,Brazil,Beckerbury,2024-12-23,True
+133,"Miller, Arnold and Olsen",3,Food & Beverage,18790819.092461843,China,Chelseaburgh,2023-03-03,True
+134,Cox Ltd,3,Chemicals,3653499.5418320266,India,Deborahchester,2023-06-06,True
+135,Smith-Paul,3,Manufacturing,2257210.689572751,France,Jimenezstad,2022-12-29,True
+136,Jacobs Ltd,3,Food & Beverage,14598046.706988815,UK,Henryberg,2023-03-18,True
+137,"Phillips, Gallagher and Smith",3,Pharmaceuticals,12163556.180792252,Brazil,Wilsonstad,2023-11-14,True
+138,"Hansen, Hood and Franklin",3,Electronics,7765389.123560071,Canada,Clarkshire,2024-05-24,True
+139,"Andrews, Hall and Hickman",3,Textiles,5168977.87215778,France,New Michael,2023-05-27,True
+140,Sanchez and Sons,3,Manufacturing,10446414.93647505,Brazil,New Michael,2021-08-11,True
+141,"Ward, Cole and Herman",3,Textiles,7348007.2884471575,China,Leslieview,2022-12-14,True
+142,"Johnson, Todd and Berry",3,Food & Beverage,12500792.657933543,China,New Vickie,2023-01-01,True
+143,Huber-Jenkins,3,Chemicals,10191737.830301857,France,South Ianside,2022-05-11,True
+144,Cook Group,3,Food & Beverage,8107767.70244872,India,West Allisonville,2021-08-06,True
+145,Roberts-Moreno,3,Energy,2633027.201277149,France,Wellsside,2024-12-26,True
+146,Winters PLC,3,Pharmaceuticals,13578627.110927384,Germany,Mcleanside,2021-12-21,True
+147,Williams LLC,3,Logistics,11425194.571829606,France,Port Nathanmouth,2022-02-12,True
+148,"Stone, Salazar and White",3,Energy,16691130.869150745,India,Crystalchester,2021-07-08,True
+149,Robinson LLC,3,Chemicals,4282635.429164574,Canada,Beckyshire,2022-01-16,True
+150,Brown and Sons,3,Logistics,13128641.911691125,Italy,Duranview,2023-04-17,True
+151,Meyer-Hunt,3,Construction,8898980.006165668,Japan,Port Edwin,2021-07-19,True
+152,"Fernandez, Cooper and Sullivan",3,Energy,9516405.099595593,Germany,Jonesside,2023-05-28,True
+153,"Harris, Castro and Villanueva",3,Electronics,5747349.459361246,Canada,Port Jeffrey,2024-01-31,True
+154,"Cooper, Mullen and Ray",3,Food & Beverage,1958405.2815036972,Japan,North William,2024-09-30,True
+155,Chan-Wolfe,3,Chemicals,4570349.253346036,Japan,New Juanberg,2024-07-01,True
+156,"Santana, Moore and Howe",3,Automotive,586065.2157638442,Japan,Nathanton,2023-04-26,True
+157,Gilbert LLC,3,Construction,12264352.063907534,China,Brooksmouth,2023-02-14,True
+158,Phelps-Werner,3,Construction,8347376.118854615,Canada,Lake Stephenburgh,2023-11-05,True
+159,Stephens and Sons,3,Textiles,14395083.718429875,France,Lake Lori,2022-12-05,True
+160,Garza and Sons,3,Construction,8053091.971243099,Germany,Duncanstad,2024-02-18,True
+161,"Dawson, Nichols and Rodriguez",3,Manufacturing,17863930.541606195,China,Lake Christian,2021-06-10,True
+162,Blake and Sons,3,Pharmaceuticals,4454938.622565157,Brazil,South Johnside,2022-11-03,True
+163,"Hernandez, Lopez and Alvarez",3,Construction,1099345.8642987544,Japan,Pattersonbury,2023-11-07,True
+164,Williams Inc,3,Electronics,9183590.326856434,Italy,Lake Susanhaven,2023-03-16,True
+165,Perry-Parks,3,Energy,19759059.816022314,Canada,Andremouth,2021-08-23,True
+166,Griffin and Sons,3,Food & Beverage,19005788.208018802,Italy,Port James,2022-05-01,True
+167,"Allen, Lopez and Rodriguez",3,Logistics,16318629.49590051,Brazil,East Kimberly,2024-01-17,True
+168,"Jackson, Miller and Berry",3,Pharmaceuticals,16628326.47745616,Brazil,North Sheliaburgh,2024-08-30,True
+169,Patterson Group,3,Construction,17954441.254341915,Italy,Scottview,2021-09-24,True
+170,Wilkinson Inc,3,Construction,5257911.814453885,Japan,Matthewberg,2022-06-06,True

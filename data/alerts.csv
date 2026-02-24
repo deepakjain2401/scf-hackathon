@@ -1,0 +1,170 @@
+id,alert_type,severity,entity_type,entity_id,description,fraud_score,investigation_status,created_at
+1,dilution,low,invoice,83,Dilution detected for invoice INV-202505-000083,0.5198,investigating,2025-05-14
+2,dilution,medium,invoice,103,Dilution detected for invoice INV-202602-000103,0.4968,investigating,2026-02-24
+3,dilution,medium,invoice,132,Dilution detected for invoice INV-202601-000132,0.5937,open,2026-01-11
+4,dilution,low,invoice,217,Dilution detected for invoice INV-202504-000217,0.5654,open,2025-04-15
+5,dilution,low,invoice,304,Dilution detected for invoice INV-202602-000304,0.4471,open,2026-02-21
+6,dilution,medium,invoice,319,Dilution detected for invoice INV-202601-000319,0.6609,investigating,2026-01-30
+7,dilution,medium,invoice,369,Dilution detected for invoice INV-202601-000369,0.4928,open,2026-01-17
+8,dilution,medium,invoice,466,Dilution detected for invoice INV-202511-000466,0.6496,investigating,2025-11-27
+9,dilution,medium,invoice,649,Dilution detected for invoice INV-202506-000649,0.5832,investigating,2025-06-06
+10,dilution,low,invoice,658,Dilution detected for invoice INV-202602-000658,0.6918,open,2026-02-27
+11,dilution,medium,invoice,737,Dilution detected for invoice INV-202505-000737,0.5839,confirmed,2025-05-25
+12,dilution,low,invoice,792,Dilution detected for invoice INV-202510-000792,0.6065,open,2025-10-23
+13,dilution,medium,invoice,848,Dilution detected for invoice INV-202507-000848,0.5895,open,2025-07-13
+14,dilution,medium,invoice,903,Dilution detected for invoice INV-202506-000903,0.4513,confirmed,2025-06-29
+15,dilution,medium,invoice,961,Dilution detected for invoice INV-202512-000961,0.5667,open,2025-12-21
+16,dilution,low,invoice,1036,Dilution detected for invoice INV-202508-001036,0.6739,investigating,2025-08-05
+17,dilution,medium,invoice,1100,Dilution detected for invoice INV-202602-001100,0.5991,open,2026-03-02
+18,dilution,medium,invoice,1198,Dilution detected for invoice INV-202512-001198,0.419,investigating,2025-12-08
+19,dilution,medium,invoice,1227,Dilution detected for invoice INV-202508-001227,0.6477,open,2025-08-29
+20,dilution,medium,invoice,1231,Dilution detected for invoice INV-202506-001231,0.5229,investigating,2025-06-30
+21,dilution,medium,invoice,1275,Dilution detected for invoice INV-202602-001275,0.6027,open,2026-02-26
+22,dilution,medium,invoice,1289,Dilution detected for invoice INV-202511-001289,0.4612,confirmed,2025-11-22
+23,dilution,low,invoice,1311,Dilution detected for invoice INV-202508-001311,0.5823,investigating,2025-09-04
+24,dilution,medium,invoice,1388,Dilution detected for invoice INV-202509-001388,0.5189,open,2025-09-19
+25,dilution,medium,invoice,1410,Dilution detected for invoice INV-202511-001410,0.4827,investigating,2025-11-24
+26,dilution,medium,invoice,1644,Dilution detected for invoice INV-202507-001644,0.6425,open,2025-07-26
+27,dilution,medium,invoice,1690,Dilution detected for invoice INV-202505-001690,0.6419,open,2025-05-11
+28,dilution,medium,invoice,1766,Dilution detected for invoice INV-202601-001766,0.4054,investigating,2026-02-01
+29,dilution,medium,invoice,1787,Dilution detected for invoice INV-202510-001787,0.5997,open,2025-10-21
+30,phantom,critical,invoice,1821,Phantom detected for invoice PHANTOM-202602-001821,0.8842,investigating,2026-02-26
+31,phantom,critical,invoice,1822,Phantom detected for invoice PHANTOM-202602-001822,0.7532,confirmed,2026-02-28
+32,phantom,high,invoice,1823,Phantom detected for invoice PHANTOM-202602-001823,0.8395,open,2026-03-01
+33,phantom,high,invoice,1824,Phantom detected for invoice PHANTOM-202602-001824,0.8327,open,2026-03-01
+34,phantom,high,invoice,1825,Phantom detected for invoice PHANTOM-202602-001825,0.7758,investigating,2026-02-27
+35,phantom,critical,invoice,1826,Phantom detected for invoice PHANTOM-202602-001826,0.7752,open,2026-03-01
+36,phantom,critical,invoice,1828,Phantom detected for invoice PHANTOM-202602-001828,0.8522,investigating,2026-02-23
+37,phantom,high,invoice,1829,Phantom detected for invoice PHANTOM-202602-001829,0.7721,open,2026-02-24
+38,phantom,high,invoice,1832,Phantom detected for invoice PHANTOM-202602-001832,0.7719,confirmed,2026-02-23
+39,phantom,high,invoice,1833,Phantom detected for invoice PHANTOM-202602-001833,0.9326,open,2026-03-02
+40,phantom,critical,invoice,1834,Phantom detected for invoice PHANTOM-202602-001834,0.8544,open,2026-02-27
+41,phantom,high,invoice,1835,Phantom detected for invoice PHANTOM-202602-001835,0.7289,open,2026-02-28
+42,phantom,high,invoice,1837,Phantom detected for invoice PHANTOM-202602-001837,0.7646,open,2026-02-28
+43,phantom,critical,invoice,1839,Phantom detected for invoice PHANTOM-202602-001839,0.7891,open,2026-02-26
+44,phantom,high,invoice,1840,Phantom detected for invoice PHANTOM-202602-001840,0.7556,open,2026-02-26
+45,phantom,critical,invoice,1842,Phantom detected for invoice PHANTOM-202602-001842,0.8186,open,2026-03-02
+46,phantom,high,invoice,1843,Phantom detected for invoice PHANTOM-202602-001843,0.746,investigating,2026-02-28
+47,phantom,high,invoice,1845,Phantom detected for invoice PHANTOM-202602-001845,0.7254,open,2026-02-27
+48,phantom,critical,invoice,1847,Phantom detected for invoice PHANTOM-202602-001847,0.9023,investigating,2026-02-25
+49,phantom,critical,invoice,1848,Phantom detected for invoice PHANTOM-202602-001848,0.9429,open,2026-02-24
+50,phantom,critical,invoice,1849,Phantom detected for invoice PHANTOM-202602-001849,0.8444,open,2026-02-24
+51,phantom,critical,invoice,1850,Phantom detected for invoice PHANTOM-202602-001850,0.9262,investigating,2026-02-27
+52,phantom,critical,invoice,1851,Phantom detected for invoice PHANTOM-202602-001851,0.7427,confirmed,2026-02-28
+53,phantom,critical,invoice,1853,Phantom detected for invoice PHANTOM-202602-001853,0.7359,open,2026-02-25
+54,phantom,critical,invoice,1854,Phantom detected for invoice PHANTOM-202602-001854,0.8155,open,2026-02-28
+55,phantom,critical,invoice,1858,Phantom detected for invoice PHANTOM-202602-001858,0.7262,open,2026-03-01
+56,phantom,high,invoice,1860,Phantom detected for invoice PHANTOM-202602-001860,0.9086,open,2026-02-25
+57,phantom,critical,invoice,1862,Phantom detected for invoice PHANTOM-202602-001862,0.8401,open,2026-02-24
+58,phantom,high,invoice,1863,Phantom detected for invoice PHANTOM-202602-001863,0.9403,investigating,2026-02-23
+59,phantom,high,invoice,1864,Phantom detected for invoice PHANTOM-202602-001864,0.72,investigating,2026-02-27
+60,phantom,high,invoice,1865,Phantom detected for invoice PHANTOM-202602-001865,0.7106,investigating,2026-02-24
+61,phantom,high,invoice,1866,Phantom detected for invoice PHANTOM-202602-001866,0.8787,investigating,2026-03-02
+62,phantom,critical,invoice,1867,Phantom detected for invoice PHANTOM-202602-001867,0.8726,open,2026-02-23
+63,phantom,high,invoice,1868,Phantom detected for invoice PHANTOM-202602-001868,0.7917,investigating,2026-03-01
+64,phantom,critical,invoice,1869,Phantom detected for invoice PHANTOM-202602-001869,0.8975,confirmed,2026-02-23
+65,phantom,critical,invoice,1870,Phantom detected for invoice PHANTOM-202602-001870,0.8142,investigating,2026-03-01
+66,phantom,high,invoice,1871,Phantom detected for invoice PHANTOM-202602-001871,0.7944,open,2026-02-24
+67,phantom,critical,invoice,1872,Phantom detected for invoice PHANTOM-202602-001872,0.918,open,2026-02-24
+68,phantom,critical,invoice,1873,Phantom detected for invoice PHANTOM-202602-001873,0.945,investigating,2026-02-24
+69,phantom,high,invoice,1874,Phantom detected for invoice PHANTOM-202602-001874,0.8887,investigating,2026-02-23
+70,phantom,critical,invoice,1875,Phantom detected for invoice PHANTOM-202602-001875,0.7434,investigating,2026-02-27
+71,phantom,high,invoice,1878,Phantom detected for invoice PHANTOM-202602-001878,0.9115,investigating,2026-02-24
+72,phantom,high,invoice,1885,Phantom detected for invoice PHANTOM-202602-001885,0.9253,open,2026-02-26
+73,duplicate,high,invoice,1886,Duplicate detected for invoice DUP-202507-001886,0.6753,open,2025-07-10
+74,duplicate,medium,invoice,1887,Duplicate detected for invoice DUP-202505-001887,0.7046,open,2025-05-07
+75,duplicate,high,invoice,1889,Duplicate detected for invoice DUP-202601-001889,0.6022,investigating,2026-01-31
+76,duplicate,medium,invoice,1890,Duplicate detected for invoice DUP-202504-001890,0.793,open,2025-04-14
+77,duplicate,high,invoice,1891,Duplicate detected for invoice DUP-202507-001891,0.7674,confirmed,2025-07-09
+78,duplicate,high,invoice,1892,Duplicate detected for invoice DUP-202508-001892,0.6557,open,2025-08-13
+79,duplicate,high,invoice,1893,Duplicate detected for invoice DUP-202508-001893,0.7148,investigating,2025-08-07
+80,duplicate,high,invoice,1894,Duplicate detected for invoice DUP-202602-001894,0.6095,investigating,2026-02-05
+81,duplicate,medium,invoice,1895,Duplicate detected for invoice DUP-202505-001895,0.7017,investigating,2025-06-02
+82,duplicate,medium,invoice,1896,Duplicate detected for invoice DUP-202510-001896,0.6268,open,2025-10-09
+83,duplicate,high,invoice,1897,Duplicate detected for invoice DUP-202508-001897,0.6227,open,2025-08-15
+84,duplicate,high,invoice,1899,Duplicate detected for invoice DUP-202602-001899,0.7641,investigating,2026-02-21
+85,duplicate,medium,invoice,1900,Duplicate detected for invoice DUP-202508-001900,0.836,investigating,2025-08-01
+86,duplicate,medium,invoice,1901,Duplicate detected for invoice DUP-202512-001901,0.8198,open,2025-12-12
+87,duplicate,high,invoice,1903,Duplicate detected for invoice DUP-202508-001903,0.7262,open,2025-08-23
+88,duplicate,high,invoice,1904,Duplicate detected for invoice DUP-202508-001904,0.8031,confirmed,2025-08-29
+89,duplicate,medium,invoice,1905,Duplicate detected for invoice DUP-202508-001905,0.6959,open,2025-08-28
+90,duplicate,medium,invoice,1906,Duplicate detected for invoice DUP-202603-001906,0.7668,investigating,2026-03-17
+91,duplicate,medium,invoice,1907,Duplicate detected for invoice DUP-202507-001907,0.7369,investigating,2025-07-06
+92,duplicate,high,invoice,1909,Duplicate detected for invoice DUP-202509-001909,0.7312,investigating,2025-10-03
+93,duplicate,medium,invoice,1910,Duplicate detected for invoice DUP-202508-001910,0.753,open,2025-08-13
+94,duplicate,high,invoice,1911,Duplicate detected for invoice DUP-202509-001911,0.8143,investigating,2025-09-26
+95,duplicate,medium,invoice,1913,Duplicate detected for invoice DUP-202602-001913,0.6055,investigating,2026-02-27
+96,duplicate,high,invoice,1914,Duplicate detected for invoice DUP-202603-001914,0.8304,investigating,2026-03-13
+97,duplicate,high,invoice,1915,Duplicate detected for invoice DUP-202507-001915,0.7483,investigating,2025-08-04
+98,duplicate,medium,invoice,1916,Duplicate detected for invoice DUP-202510-001916,0.7011,investigating,2025-11-05
+99,over_invoice,medium,invoice,1917,Over Invoice detected for invoice OVR-202505-001917,0.7523,open,2025-05-19
+100,over_invoice,high,invoice,1918,Over Invoice detected for invoice OVR-202509-001918,0.5277,open,2025-09-13
+101,over_invoice,medium,invoice,1919,Over Invoice detected for invoice OVR-202511-001919,0.6994,open,2025-11-13
+102,over_invoice,medium,invoice,1920,Over Invoice detected for invoice OVR-202603-001920,0.6746,investigating,2026-03-10
+103,over_invoice,medium,invoice,1921,Over Invoice detected for invoice OVR-202505-001921,0.5048,open,2025-05-11
+104,over_invoice,high,invoice,1923,Over Invoice detected for invoice OVR-202511-001923,0.5422,open,2025-11-19
+105,over_invoice,high,invoice,1924,Over Invoice detected for invoice OVR-202509-001924,0.5935,investigating,2025-09-26
+106,over_invoice,high,invoice,1925,Over Invoice detected for invoice OVR-202512-001925,0.5996,open,2025-12-26
+107,over_invoice,medium,invoice,1928,Over Invoice detected for invoice OVR-202507-001928,0.5657,open,2025-07-11
+108,over_invoice,medium,invoice,1929,Over Invoice detected for invoice OVR-202505-001929,0.7237,open,2025-06-04
+109,over_invoice,medium,invoice,1930,Over Invoice detected for invoice OVR-202507-001930,0.7206,open,2025-07-11
+110,over_invoice,medium,invoice,1931,Over Invoice detected for invoice OVR-202506-001931,0.6902,open,2025-06-11
+111,over_invoice,high,invoice,1932,Over Invoice detected for invoice OVR-202601-001932,0.5705,investigating,2026-02-05
+112,over_invoice,medium,invoice,1933,Over Invoice detected for invoice OVR-202601-001933,0.6359,investigating,2026-02-01
+113,carousel,high,invoice,1939,Carousel detected for invoice CAR-202603-001939,0.8247,open,2026-03-03
+114,carousel,high,invoice,1940,Carousel detected for invoice CAR-202602-001940,0.8001,open,2026-03-01
+115,carousel,high,invoice,1941,Carousel detected for invoice CAR-202603-001941,0.7757,open,2026-03-12
+116,carousel,high,invoice,1942,Carousel detected for invoice CAR-202603-001942,0.894,open,2026-03-11
+117,carousel,critical,invoice,1943,Carousel detected for invoice CAR-202602-001943,0.7294,investigating,2026-02-26
+118,carousel,critical,invoice,1944,Carousel detected for invoice CAR-202602-001944,0.7554,investigating,2026-02-26
+119,carousel,high,invoice,1946,Carousel detected for invoice CAR-202602-001946,0.7622,open,2026-02-24
+120,carousel,high,invoice,1948,Carousel detected for invoice CAR-202603-001948,0.8648,open,2026-03-06
+121,carousel,high,invoice,1949,Carousel detected for invoice CAR-202603-001949,0.8189,confirmed,2026-03-16
+122,carousel,high,invoice,1950,Carousel detected for invoice CAR-202602-001950,0.7214,open,2026-03-02
+123,carousel,high,invoice,1952,Carousel detected for invoice CAR-202603-001952,0.7102,open,2026-03-09
+124,carousel,high,invoice,1954,Carousel detected for invoice CAR-202602-001954,0.7675,open,2026-02-23
+125,carousel,critical,invoice,1955,Carousel detected for invoice CAR-202603-001955,0.8197,open,2026-03-09
+126,carousel,high,invoice,1956,Carousel detected for invoice CAR-202603-001956,0.8952,open,2026-03-15
+127,carousel,high,invoice,1957,Carousel detected for invoice CAR-202602-001957,0.7838,open,2026-02-25
+128,carousel,critical,invoice,1959,Carousel detected for invoice CAR-202602-001959,0.8736,open,2026-03-02
+129,carousel,high,invoice,1962,Carousel detected for invoice CAR-202602-001962,0.8694,investigating,2026-02-26
+130,carousel,high,invoice,1963,Carousel detected for invoice CAR-202603-001963,0.8829,open,2026-03-04
+131,carousel,high,invoice,1964,Carousel detected for invoice CAR-202602-001964,0.7395,investigating,2026-02-27
+132,carousel,critical,invoice,1966,Carousel detected for invoice CAR-202603-001966,0.8007,open,2026-03-09
+133,carousel,high,invoice,1968,Carousel detected for invoice CAR-202602-001968,0.7754,investigating,2026-03-04
+134,carousel,critical,invoice,1969,Carousel detected for invoice CAR-202603-001969,0.7652,open,2026-03-14
+135,carousel,critical,invoice,1970,Carousel detected for invoice CAR-202603-001970,0.8104,open,2026-03-15
+136,carousel,high,invoice,1971,Carousel detected for invoice CAR-202602-001971,0.7996,open,2026-02-27
+137,carousel,high,invoice,1972,Carousel detected for invoice CAR-202602-001972,0.7585,open,2026-03-04
+138,carousel,high,invoice,1973,Carousel detected for invoice CAR-202602-001973,0.7122,open,2026-03-02
+139,carousel,high,invoice,1974,Carousel detected for invoice CAR-202603-001974,0.7636,investigating,2026-03-13
+140,carousel,high,invoice,1977,Carousel detected for invoice CAR-202602-001977,0.7346,investigating,2026-03-03
+141,carousel,critical,invoice,1980,Carousel detected for invoice CAR-202602-001980,0.8785,open,2026-03-02
+142,carousel,high,invoice,1983,Carousel detected for invoice CAR-202603-001983,0.7436,investigating,2026-03-20
+143,carousel,critical,invoice,1984,Carousel detected for invoice CAR-202603-001984,0.7115,open,2026-03-26
+144,carousel,critical,invoice,1985,Carousel detected for invoice CAR-202602-001985,0.8914,investigating,2026-03-01
+145,carousel,high,invoice,1988,Carousel detected for invoice CAR-202602-001988,0.7678,investigating,2026-02-24
+146,carousel,high,invoice,1989,Carousel detected for invoice CAR-202602-001989,0.8499,open,2026-02-28
+147,carousel,critical,invoice,1990,Carousel detected for invoice CAR-202603-001990,0.7742,investigating,2026-03-10
+148,carousel,high,invoice,1992,Carousel detected for invoice CAR-202603-001992,0.8674,investigating,2026-03-05
+149,carousel,critical,invoice,1993,Carousel detected for invoice CAR-202603-001993,0.7059,investigating,2026-03-03
+150,phantom,low,invoice,199,Potential fraud detected for invoice INV-202603-000199 (False Positive),0.5772,false_positive,2026-03-08
+151,phantom,low,invoice,558,Potential fraud detected for invoice INV-202511-000558 (False Positive),0.5056,false_positive,2025-11-05
+152,duplicate,medium,invoice,387,Potential fraud detected for invoice INV-202509-000387 (False Positive),0.3595,false_positive,2025-09-22
+153,duplicate,medium,invoice,1422,Potential fraud detected for invoice INV-202508-001422 (False Positive),0.3551,false_positive,2025-08-18
+154,duplicate,medium,invoice,833,Potential fraud detected for invoice INV-202601-000833 (False Positive),0.3672,false_positive,2026-01-02
+155,duplicate,low,invoice,563,Potential fraud detected for invoice INV-202506-000563 (False Positive),0.469,false_positive,2025-06-30
+156,duplicate,low,invoice,1037,Potential fraud detected for invoice INV-202509-001037 (False Positive),0.5748,false_positive,2025-09-04
+157,velocity,low,invoice,1736,Potential fraud detected for invoice INV-202512-001736 (False Positive),0.5874,false_positive,2025-12-23
+158,velocity,low,invoice,162,Potential fraud detected for invoice INV-202511-000162 (False Positive),0.5269,false_positive,2025-11-12
+159,duplicate,low,invoice,127,Potential fraud detected for invoice INV-202510-000127 (False Positive),0.3469,false_positive,2025-10-10
+160,velocity,medium,invoice,884,Potential fraud detected for invoice INV-202505-000884 (False Positive),0.5453,false_positive,2025-05-23
+161,phantom,medium,invoice,1143,Potential fraud detected for invoice INV-202511-001143 (False Positive),0.3657,false_positive,2025-11-27
+162,phantom,medium,invoice,52,Potential fraud detected for invoice INV-202512-000052 (False Positive),0.5102,false_positive,2025-12-23
+163,phantom,medium,invoice,1819,Potential fraud detected for invoice INV-202509-001819 (False Positive),0.5584,false_positive,2025-09-06
+164,velocity,low,invoice,150,Potential fraud detected for invoice INV-202601-000150 (False Positive),0.5467,false_positive,2026-01-13
+165,duplicate,low,invoice,943,Potential fraud detected for invoice INV-202507-000943 (False Positive),0.3895,false_positive,2025-07-12
+166,phantom,low,invoice,973,Potential fraud detected for invoice INV-202509-000973 (False Positive),0.5491,false_positive,2025-10-01
+167,duplicate,low,invoice,1588,Potential fraud detected for invoice INV-202503-001588 (False Positive),0.4938,false_positive,2025-03-25
+168,duplicate,low,invoice,40,Potential fraud detected for invoice INV-202506-000040 (False Positive),0.4659,false_positive,2025-06-09
+169,duplicate,low,invoice,452,Potential fraud detected for invoice INV-202602-000452 (False Positive),0.4764,false_positive,2026-02-11
